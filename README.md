@@ -7,6 +7,8 @@ using namespace std;
 
 int main(){
 	
+	https://github.com/cyber-anonimo/asdfa/blob/main/README.md
+	
 	int numero[chanche];
 	int resposta = 0;
 	int tentativa = 0;
